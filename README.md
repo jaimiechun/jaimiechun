@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 I'm a second-year student studying Computer Science & Journalism with a minor in Data Science at Northwestern University.
 
 ## Languages & Tools (Tech Stack)
-**Languages**: Swift, Java, JavaScript, TypeScript Python, R, SQL, HTML, CSS, SQL
-**Frameworks/Libs**: SwiftUI, React.js, Node.js, SwiftData, Supabase
-**Tools**: Git, Figma, VSCode, RStudio, ggplot2, Pandas/NumPy
+- **Languages**: Swift, Java, JavaScript, TypeScript Python, R, SQL, HTML, CSS, SQL
+- **Frameworks/Libs**: SwiftUI, React.js, Node.js, SwiftData, Supabase
+- **Tools**: Git, Figma, VSCode, RStudio, ggplot2, Pandas/NumPy
